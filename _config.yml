@@ -1,6 +1,6 @@
 # Site settings
 title:ayeon's portfolio
-baseurl: "/ap"
+baseurl: 
 url: "https://haru-lab-code.github.io"
 google_analytics: 
 
@@ -17,9 +17,9 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: haru-lab-code
   google_plus:
   instagram:
   keybase:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter:
   vimeo:
   wordpress:
   youtube:
